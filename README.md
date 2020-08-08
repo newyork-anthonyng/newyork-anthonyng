@@ -12,7 +12,7 @@
 ## Write
 * [Testing React Component’s State](https://medium.com/@newyork.anthonyng/testing-react-components-state-b57bfc712b90)
 * [Use webpack with __dirname correctly](https://codeburst.io/use-webpack-with-dirname-correctly-4cad3b265a92)
-* [<table> prejudice and HTML xenophobia](https://www.freecodecamp.org/news/table-prejudice-and-html-xenophobia-30704984785e/)
+* [&lt;table&gt; prejudice and HTML xenophobia](https://www.freecodecamp.org/news/table-prejudice-and-html-xenophobia-30704984785e/)
 * [Don't ruin your &lt;img&gt;](https://www.freecodecamp.org/news/you-need-to-stop-making-these-6-mistakes-with-your-img-s-e242c02d14be/)
 
 ## Talk
