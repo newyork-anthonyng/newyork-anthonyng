@@ -1,5 +1,10 @@
 # My name is Anthony 👋
 
+- [Contact Me](#contact-me)
+- [Code](#code)
+- [Write](#write)
+- [Talk](#talk)
+
 ## Contact Me
 * <a href="mailto:newyork.anthonyng@gmail.com?Subject=Hello!">Email</a>
 * [LinkedIn](https://www.linkedin.com/in/anthony-ng-02856056/)
